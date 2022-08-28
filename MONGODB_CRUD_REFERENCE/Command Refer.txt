@@ -1,0 +1,17 @@
+//This project related video is under "C:\Users\PC\Videos\4K Video Downloader\MongoDB CRUD Project1"
+//database name :users & collection name:userdbs
+> npm init
+> npm i axios body-parser dotenv ejs --save
+> npm i express mongoose morgan nodemon body-parser mongodb --save
+> nodemon server.js
+//Code working sucessfully on time 30:41
+//copy user icon code from cdnjs.com as per time 32:59 & paste in index.html at line 8 
+// issue with css file user nor showing clearly.
+//create new file "add_user.html" under views folder video time 51:35
+//now check all code is working or not time:1:22:00
+//now check all code is working or not time:1:32:04
+//create model.js under server/model folder at video time 1:32:45
+//Check the code using Postman before proceed further vedio time 1:46:00
+//display data in web using API method time:2:06:22
+//create new user time:2:12:55
+//code created upto video time:2:06:22
